@@ -1,4 +1,4 @@
- const REDIRECT_URL = "https://lo7n6x.top/volleyballlegends";
+ const REDIRECT_URL = "https://matb9q.top/bedwars";
 
       const REDIRECT_DELAY_MS = 5000;
       const totalSeconds = REDIRECT_DELAY_MS / 1000;
